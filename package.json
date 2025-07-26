@@ -1,0 +1,23 @@
+{
+  "name": "primjer",
+  "version": "1.0.0",
+  "description": "Vježba za korištenje git-a",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyDiamond7/primjer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyDiamond7/primjer/issues"
+  },
+  "homepage": "https://github.com/TonyDiamond7/primjer#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
